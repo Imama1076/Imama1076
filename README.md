@@ -1,10 +1,5 @@
 <h1 align="left">
-  Hi, I'm Imama Fayyaz 👋
-  <span style="float: right;">
-    <a href="mailto:amamaishere@gmail.com">
-      <img src="https://img.shields.io/badge/Email%20Me-amamaishere%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email Me" />
-    </a>
-  </span>
+  Hi 👋, I'm Imama Fayyaz 
 </h1>
 
 **A passionate Web Developer || WordPress Developer || Laravel & PHP Developer || AI Explorer from Pakistan**
