@@ -1,20 +1,34 @@
-#  Hi , I'm Imama Fayyaz
+<h1 align="left">
+  Hi, I'm Imama Fayyaz 👋
+  <span style="float: right;">
+    <a href="mailto:amamaishere@gmail.com">
+      <img src="https://img.shields.io/badge/Email%20Me-amamaishere%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email Me" />
+    </a>
+  </span>
+</h1>
+
 **A passionate Web Developer || WordPress Developer || Laravel & PHP Developer || AI Explorer from Pakistan**
 
-Email Me  **amamaishere@gmail.com** For Collaboration/Project or Anything Else. 
+---
 
-- I’m currently exploring: AI, Prompt Engineering, AI-assisted development, mobile app development, and diving deeper into backend development with PHP and Laravel.
-
--  I’m currently learning: Prompt Engineering, AI-assisted development and deepening my understanding of PHP and Laravel.
-
--  I’m looking to collaborate on: Web and mobile application projects, especially projects involving Laravel, PHP, WordPress, and AI-powered solutions.
-
--  I’m looking for help with: Improving my backend development skills and gaining a deeper understanding of PHP, Laravel, and scalable application development.
-
--  Ask me about: Laravel, PHP, WordPress, AI-assisted development, prompt engineering, and web  projects.
-
-- Fun fact: I enjoy turning ideas into real applications and using AI as a development partner to learn, build, and experiment with new technologies.
-
+<table border="0" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td valign="middle" align="center" width="280" style="border: none; padding-right: 25px;">
+      <img src="./photo2.jpg" alt="Profile Photo" width="260" style="border-radius: 12px; display: block;" />
+    </td>
+    <td valign="top" style="border: none;">
+      <h3 style="margin-top: 0; margin-bottom: 12px;"> About My Journey & Focus</h3>
+      <ul>
+        <li>🔭 <b>Exploring:</b> AI, Prompt Engineering, Mobile App & Backend Development with PHP/Laravel.</li>
+        <li>🌱 <b>Learning:</b> AI-assisted development & advanced Laravel architecture.</li>
+        <li>👯 <b>Collaborating on:</b> Web & mobile apps using Laravel, WordPress, & AI solutions.</li>
+        <li>🤝 <b>Seeking help with:</b> Scalable backend systems & distributed databases.</li>
+        <li>💬 <b>Ask me about:</b> Laravel, PHP, WordPress, & Prompt Engineering.</li>
+        <li>⚡ <b>Fun fact:</b> I love turning ideas into real apps using AI as my development co-pilot.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <!-- Snake Game Repo View -->
 
 <div align="center">
