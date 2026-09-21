@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi 👋, I'm Imama Fayyaz 
+  Hi , I'm Imama Fayyaz 
 </h1>
 
 **A passionate Web Developer || WordPress Developer || Laravel & PHP Developer || AI Explorer from Pakistan**
@@ -14,12 +14,12 @@
     <td valign="top" style="border: none;">
       <h3 style="margin-top: 0; margin-bottom: 12px;"> About My Journey & Focus</h3>
       <ul>
-        <li>🔭 <b>Exploring:</b> AI, Prompt Engineering, Mobile App & Backend Development with PHP/Laravel.</li>
-        <li>🌱 <b>Learning:</b> AI-assisted development & advanced Laravel architecture.</li>
-        <li>👯 <b>Collaborating on:</b> Web & mobile apps using Laravel, WordPress, & AI solutions.</li>
-        <li>🤝 <b>Seeking help with:</b> Scalable backend systems & distributed databases.</li>
-        <li>💬 <b>Ask me about:</b> Laravel, PHP, WordPress, & Prompt Engineering.</li>
-        <li>⚡ <b>Fun fact:</b> I love turning ideas into real apps using AI as my development co-pilot.</li>
+        <li> <b>Exploring:</b> AI, Prompt Engineering, Mobile App & Backend Development with PHP/Laravel.</li>
+        <li> <b>Learning:</b> AI-assisted development & advanced Laravel architecture.</li>
+        <li><b>Collaborating on:</b> Web & mobile apps using Laravel, WordPress, & AI solutions.</li>
+        <li> <b>Seeking help with:</b> Scalable backend systems & distributed databases.</li>
+        <li> <b>Ask me about:</b> Laravel, PHP, WordPress, & Prompt Engineering.</li>
+        <li> <b>Fun fact:</b> I love turning ideas into real apps using AI as my development co-pilot.</li>
       </ul>
     </td>
   </tr>
@@ -62,6 +62,45 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+##  Mega Projects
+
+
+###  Gradora
+
+Student academic planner and GPA management application.
+
+Focus: Academic Planning • GPA/CGPA • Timetable • Student Productivity
+
+### Spendaura
+
+Business project where I worked as the **Founder & Developer**.
+
+**Focus:** WordPress • Elementor • Website Development • Business Operations
+
+###  FoodNexus
+
+Laravel-based food delivery web application.
+
+**Focus:** Laravel • PHP • MySQL • Bootstrap • Authentication • CRUD
+
+
+###  WordPress Projects
+
+Responsive websites developed with WordPress and Elementor.
+
+**Focus:** WordPress • Elementor • Responsive Design • UI/UX
+
+---
+
+## 🛠️ Small Projects
+
+Small projects and practice work built to strengthen my understanding of web development and programming fundamentals.
+
+**Focus:** HTML • CSS • JavaScript • PHP • SQL • Git • APIs • Problem Solving
+
+
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
