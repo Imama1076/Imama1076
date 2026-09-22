@@ -178,7 +178,7 @@
 </div>
 
 <p align="center">
-  <img src="asset/quote.svg" width="100%" style="max-width: 750px;" alt="Dijkstra Quote" />
+  <img src="asset/qoute.svg" width="100%" style="max-width: 750px;" alt="Dijkstra Quote" />
 </p>
 
 ---
