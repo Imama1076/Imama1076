@@ -3,12 +3,12 @@
   <img src="asset/header.svg" width="100%" alt="Amama Fayyaz Header" />
 </p>
 
-<!-- Typing SVG (Visual Only - No Dead Links) -->
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Amama%20Fayyaz%20%F0%9F%91%8B;Web%20%26%20WordPress%20Developer%20%F0%9F%92%BB;Laravel%20%26%20PHP%20Backend%20Builder%20%E2%9A%A1;AI-Assisted%20Engineering%20Explorer;Turning%20Ideas%20Into%20Real-World%20Solutions%20%F0%9F%9A%80" width="100%" style="max-width: 650px;" alt="Typing SVG" />
 </p>
 
-<!-- Social Quick Links (Only Real Working Links) -->
+<!-- Social Quick Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/amama-fayyaz-529392438" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00D2FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060c16" alt="LinkedIn" />
@@ -127,7 +127,7 @@
 
 ---
 
-<!-- Tech Stack & Tools (Bigger Badges & No Dead Links) -->
+<!-- Tech Stack & Tools -->
 <h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
 
 <p align="center"><b>Core Backend, CMS &amp; Frontend</b></p>
@@ -178,7 +178,7 @@
 </div>
 
 <p align="center">
-  <img src="asset/qoute.svg" width="100%" style="max-width: 750px;" alt="Dijkstra Quote" />
+  <img src="asset/quote.svg" width="100%" style="max-width: 750px;" alt="Dijkstra Quote" />
 </p>
 
 ---
