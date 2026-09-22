@@ -1,0 +1,59 @@
+<svg width="100%" height="225" viewBox="0 0 850 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark Blue Radial Background Glow -->
+    <radialGradient id="bgGradBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0a1d37" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#050b14" stop-opacity="1"/>
+    </radialGradient>
+
+    <!-- Cyan Tech Grid Pattern -->
+    <pattern id="techGridBlue" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M 22 0 L 0 0 0 22" fill="none" stroke="#00d2ff" stroke-width="0.7" stroke-opacity="0.12"/>
+    </pattern>
+
+    <!-- Electric Blue Glow Filter -->
+    <filter id="blueGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Base Canvas -->
+  <rect width="850" height="225" rx="14" fill="#040910" />
+  <rect width="850" height="225" rx="14" fill="url(#bgGradBlue)" />
+  <rect width="850" height="225" rx="14" fill="url(#techGridBlue)" />
+  <rect width="848" height="223" x="1" y="1" rx="13" fill="none" stroke="#0077b5" stroke-opacity="0.5" stroke-width="1.2" />
+
+  <!-- Corner Brackets (Cyan / Neon Blue) -->
+  <path d="M 12 36 L 12 14 L 36 14" stroke="#00d2ff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 838 36 L 838 14 L 814 14" stroke="#00d2ff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 12 189 L 12 211 L 36 211" stroke="#00d2ff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 838 189 L 838 211 L 814 211" stroke="#00d2ff" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Compact Top Capsule with Glowing Accent -->
+  <rect x="270" y="20" width="310" height="27" rx="13.5" fill="#091424" stroke="#00d2ff" stroke-opacity="0.6" stroke-width="1.2"/>
+  <circle cx="286" cy="33.5" r="4" fill="#00d2ff" filter="url(#blueGlow)"/>
+  <text x="300" y="37.5" fill="#38bdf8" font-size="11.5" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="700" letter-spacing="1">
+    Building Real-World Digital Solutions
+  </text>
+
+  <!-- Main Headline Name -->
+  <text x="50%" y="106" text-anchor="middle" fill="#f0f6fc" font-size="36" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="800" letter-spacing="2.5">
+    AMAMA FAYYAZ
+  </text>
+
+  <!-- Line Under Name: Roles & Stack -->
+  <text x="50%" y="136" text-anchor="middle" fill="#00d2ff" font-size="13" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="600" letter-spacing="0.6">
+    Web Developer | WordPress Developer | AI-Assisted Engineer | PHP &amp; Laravel
+  </text>
+
+  <!-- Center Accent Diamond -->
+  <g transform="translate(425, 162)">
+    <rect x="-5" y="-5" width="10" height="10" rx="1.5" fill="#00d2ff" filter="url(#blueGlow)" transform="rotate(45)"/>
+  </g>
+
+  <!-- Bottom Monospace Tag -->
+  <text x="50%" y="192" text-anchor="middle" fill="#93c5fd" font-size="11.5" font-family="'Courier New', monospace" font-weight="600" letter-spacing="1.2">
+    &lt;/&gt; Turning Ideas Into Real-World Solutions
+  </text>
+</svg>
