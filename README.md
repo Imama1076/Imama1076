@@ -33,7 +33,7 @@
 
 <p align="center">
   Hey! I'm <b>Amama Fayyaz</b>, a passionate <b>Web Developer &amp; AI-Assisted Engineer</b> based in Pakistan. 🇵🇰<br />
-  I specialize in architecting scalable backend systems with <b>PHP &amp; Laravel</b>, engineering dynamic sites with <b>WordPress &amp; Elementor</b>, and integrating <b>AI-assisted workflows</b> to build real-world digital solutions.
+  I specialize in architecting scalable backend systems with <b> Laravel</b>, engineering dynamic sites with <b>WordPress &amp; Elementor</b>, and integrating <b>AI-assisted workflows</b> to build real-world digital solutions.
 </p>
 
 <p align="center">
@@ -45,28 +45,24 @@
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> PHP, Laravel, WordPress, MySQL, REST APIs, JavaScript &amp; Prompt Engineering.<br />
+  💬 <b>Let's Discuss:</b>  Laravel, WordPress, MySQL, REST APIs, JavaScript &amp; Prompt Engineering.<br />
   ⚡ <b>Philosophy:</b> <i>"Turning complex ideas into clean, functional, and production-ready digital solutions!"</i>
 </p>
 
 <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🔭 Flagship Application</h4>
   <p><b>Gradora App</b><br /><sub>AI Study Planner, Timetable Generator &amp; Weakness Tracker</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🌱 Active Deep Dives</h4>
   <p><b>Laravel Ecosystem &amp; System Architecture</b><br /><sub>Distributed Databases &amp; Secure APIs</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>💼 Commercial Venture</h4>
   <p><b>Spendaura</b><br /><sub>Founder &amp; Platform Developer (Acquired)</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🤝 Collaboration</h4>
   <p><b>Web, Backend &amp; Custom CMS</b><br /><sub>Open to remote roles &amp; freelance projects</sub></p>
 </td>
 </tr>
@@ -74,12 +70,12 @@
 
 ---
 
-<h2 align="center">🔹 Featured Venture Spotlight</h2>
+<h2 align="center"> Featured Venture Spotlight</h2>
 
 <table width="100%" border="0" align="center">
 <tr>
 <td align="center" style="padding: 24px; background: #060c16; border: 1.2px solid #00d2ff55; border-radius: 12px;">
-  <h3 style="color: #00d2ff; margin-bottom: 6px;">💼 Spendaura — Commercial E-Commerce Venture</h3>
+  <h3 style="color: #00d2ff; margin-bottom: 6px;"> Spendaura</h3>
   <p><b>Founder &amp; Lead Platform Developer &nbsp;|&nbsp; Status: Successfully Acquired / Sold</b></p>
   <p style="max-width: 720px; color: #e6edf3; line-height: 1.6;">
     <i>An end-to-end commercial startup independently conceptualized, engineered, and managed from zero to operational maturity. Built the comprehensive digital infrastructure, custom WordPress &amp; Elementor storefront, inventory workflows, and responsive UI/UX. Following market traction and successful regional operations, the platform and business assets were officially acquired by a local vendor.</i>
@@ -98,18 +94,18 @@
 
 ---
 
-<h2 align="center">🚀 Core Engineering &amp; Production Builds</h2>
+<h2 align="center"> Core Engineering &amp; Production Builds</h2>
 
 <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 18px; background: #060c16; border: 1px solid #1f2937; border-radius: 10px;">
-  <h3 style="color: #00d2ff; margin-bottom: 6px;">🎓 Gradora App</h3>
+  <h3 style="color: #00d2ff; margin-bottom: 6px;"> Gradora App</h3>
   <p><i>AI-Powered Academic Planner &amp; Study Intelligence Application</i></p>
   <p style="color: #c9d1d9; font-size: 13.5px; line-height: 1.5;">A smart productivity application engineered to automate dynamic timetable generation, send proactive study alerts, diagnose academic weak points across subjects, and deliver tailored study roadmaps with targeted recommendations.</p>
   <sub><b>Timetable Automation • Weakness Analytics • Smart Study Alerts • Dynamic Study Plans</b></sub>
 </td>
 <td width="50%" align="center" style="padding: 18px; background: #060c16; border: 1px solid #1f2937; border-radius: 10px;">
-  <h3 style="color: #00d2ff; margin-bottom: 6px;">🍔 FoodNexus</h3>
+  <h3 style="color: #00d2ff; margin-bottom: 6px;"> FoodNexus</h3>
   <p><i>Laravel-Powered Food Delivery Platform</i></p>
   <p style="color: #c9d1d9; font-size: 13.5px; line-height: 1.5;">A scalable full-stack web application featuring role-based authentication, dynamic real-time cart handling, relational MySQL schema architecture, and complete CRUD order lifecycle management.</p>
   <sub><b>Laravel • PHP • MySQL • Bootstrap • REST Architecture</b></sub>
@@ -117,7 +113,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center" style="padding: 18px; background: #060c16; border: 1px solid #1f2937; border-radius: 10px;">
-  <h3 style="color: #00d2ff; margin-bottom: 6px;">🌐 Custom WordPress &amp; Client Projects</h3>
+  <h3 style="color: #00d2ff; margin-bottom: 6px;"> Custom WordPress &amp; Client Projects</h3>
   <p><i>High-Performance Responsive Web Portals</i></p>
   <p style="max-width: 650px; color: #c9d1d9; font-size: 13.5px; line-height: 1.5;">A portfolio of production-ready business websites built with custom Elementor widgets, Gutenberg styling, performance speed optimization, and clean, high-conversion UI layouts.</p>
   <sub><b>WordPress • Elementor • Custom Layouts • Speed Optimization</b></sub>
@@ -128,7 +124,7 @@
 ---
 
 <!-- Tech Stack & Tools -->
-<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
+<h2 align="center"> Tech Stack &amp; Skills</h2>
 
 <p align="center"><b>Core Backend, CMS &amp; Frontend</b></p>
 <p align="center">
@@ -172,7 +168,6 @@
 ---
 
 <!-- Contribution Activity -->
-<h2 align="center">⚡ Contribution Activity</h2>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
